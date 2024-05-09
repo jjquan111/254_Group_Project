@@ -37,7 +37,7 @@
 
        //add event button 
        $('#addEventBtn').click(function() {
-           window.location.href = 'add-event.html'; //redirect to add_event.html
+           window.location.href = 'add_event.html'; //redirect to add_event.html
        });
    });
    </script>
